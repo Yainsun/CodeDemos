@@ -1,2 +1,4 @@
-# JavaDemos
-Store my java demos
+# CodeDemos
+Store my demos
+
+## JavaInteractWithWMQ
